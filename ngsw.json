@@ -1,10 +1,10 @@
 {
   "configVersion": 1,
-  "timestamp": 1593098161782,
+  "timestamp": 1593361947076,
   "index": "/index.html",
   "assetGroups": [
     {
-      "name": "app",
+      "name": "Alessandro",
       "installMode": "prefetch",
       "updateMode": "prefetch",
       "urls": [
@@ -183,8 +183,8 @@
         "/common-es2015.787fed6c88942b571d48.js",
         "/common-es5.787fed6c88942b571d48.js",
         "/index.html",
-        "/main-es2015.f7bbf30ffcd2ddc905f1.js",
-        "/main-es5.f7bbf30ffcd2ddc905f1.js",
+        "/main-es2015.a14b52ed3e54304d6ba3.js",
+        "/main-es5.a14b52ed3e54304d6ba3.js",
         "/manifest.webmanifest",
         "/polyfills-core-js-es2015.ce47e0beaa8754f121dc.js",
         "/polyfills-core-js-es5.ce47e0beaa8754f121dc.js",
@@ -405,9 +405,9 @@
     "/assets/shapes.svg": "5413e95adabcb2cb639970051f55e0ddb64ace53",
     "/common-es2015.787fed6c88942b571d48.js": "2634c6f1e6055c8b0aa4f38c54faea50c26a352c",
     "/common-es5.787fed6c88942b571d48.js": "4f16208880f1e36208abbe684c332346fa3d5599",
-    "/index.html": "74998e9de799bca3443aac345f9e13995ed4f506",
-    "/main-es2015.f7bbf30ffcd2ddc905f1.js": "c91c49a5f6aca75337a8abeb750466550c2e381b",
-    "/main-es5.f7bbf30ffcd2ddc905f1.js": "0aff6f8103ecfc4416402e0a21787281a926f517",
+    "/index.html": "900a845fd1b86b458df840f516df00af4182be81",
+    "/main-es2015.a14b52ed3e54304d6ba3.js": "0aa8a75f6ebca27984e463de4857f50140c9522f",
+    "/main-es5.a14b52ed3e54304d6ba3.js": "634be0c1bc7debc36b6d9dd0d3aa8656fc9eba7e",
     "/manifest.webmanifest": "9a088b7c4339228d1082e666ce105dc889bc180c",
     "/polyfills-core-js-es2015.ce47e0beaa8754f121dc.js": "fe18301772fedd9faed9155d0253b25bad547329",
     "/polyfills-core-js-es5.ce47e0beaa8754f121dc.js": "2238555b018c094b6a5445b2ea64d26959264b3a",
